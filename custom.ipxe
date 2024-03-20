@@ -6,7 +6,7 @@
 :start
 echo This is a custom menu just for testing menu config on Github : ${github_user}
 sleep 10
-goto custom_exit
+goto custom
 
 
 :custom
